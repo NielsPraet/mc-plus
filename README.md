@@ -6,10 +6,17 @@ This is a Minecraft 1.17 'Plus' modpack that is designed to enrich the features 
 ## Server?
 That's right! This is a formal invitation to join us on a way too ambitious server that has been designed to create a fun community for everyone to play on. This server will contain both English and Dutch speaking people, so keep mind of this.
 
-To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) a DM on Discord or by adding an issue to this repo (if you know how this works ofcourse).
+To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works ofcourse).
 
 ## Installation
-TODO
+To join the server, you should have the mods installed that can be found in this repo. Below you can find the different ways to install these mods into your client.
+
+### MultiMC (recommended)
+Multimc is a program where you can have multiple minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
+
+### Minecraft Launcher
+This is the default minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
+
 
 ## Rules & Guidelines
 - Griefing and stealing from other players is not allowed, this will result in a ban.
@@ -17,7 +24,9 @@ TODO
 - RDM (Random Deathmatch) is not allowed on the server. This doesn't mean PvP is not allowed.
 
 ## Features
-TODO
+
+### Voice Chat!
+Communicate with other players through in game proximity voice chat. The voice chat is a big part of the magic of this server and I hope this can lead to some fun interactions/RP. This voice chat also has a feature where you can start a group voice chat just like discord, for the people who don't want to play alone.
 
 ## Mods
-TODO
+
