@@ -19,9 +19,11 @@ This is the default minecraft launcher, the installation guide can be found **[h
 
 
 ## Rules & Guidelines
-- Griefing and stealing from other players is not allowed, this will result in a ban.
+- Griefing and stealing from other players is not allowed, this can result in a ban.
 - Any kind of hate speech or genuine disrespect towards other players will not be tolerated.
 - RDM (Random Deathmatch) is not allowed on the server. This doesn't mean PvP is not allowed.
+- No hacking or exploiting (e.g. item duping), this can also result in a ban.
+- Limit the use of automated farms (specifically mobfarms), they are allowed but be sure to ask an admin first (too many farms will cause tps issues / lag).
 
 ## Features
 
