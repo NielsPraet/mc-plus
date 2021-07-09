@@ -1,17 +1,17 @@
 # mc-plus
 
 ## What is this?
-This is a Minecraft 1.17 'Plus' modpack that is designed to enrich the features the vanilla version delivers. This has been specially created to be used on our server! A detailed list of the mods and their content can be found below.
+This is a Minecraft 1.17 'Plus' modpack designed to enrich the features vanilla version delivers. This has been specifically created to be used on our server! A detailed list of the mods and their content can be found below.
 
 ## Server?
-That's right! This is a formal invitation to join us on a way too ambitious server that has been designed to create a fun community for everyone to play on. This server will contain both English and Dutch speaking people, so keep mind of this.
+That's right! This is a formal invitation to join us on a way too ambitious server designed to create a fun community for everyone to play on. This server will contain both English and Dutch speaking people, so keep this in mind.
 
-To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works ofcourse).
+To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. We want to have a friendly and healthy community, and so we ask everyone to follow these. Violations of these rules will result in anywhere from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works of course).
 
-To protect our server, we use whitelisting, so if you want to join, please send me a message with your minecraft username and we will add you to our server and deliver you the IP.
+To protect our server, we use whitelisting, so if you want to join, please send me a message with your Minecraft username and we will add you to our server and send you the IP.
 
 ## Installation
-To join the server, you should have the mods installed that can be found in this repo. Below you can find the different ways to install these mods into your client.
+To join the server, you should have the mods found in this repo installed. Below you can find the different ways to install these into your client.
 You can download the mods by pressing the green button in the upper right corner.
 ![image](https://user-images.githubusercontent.com/61625814/125112684-ca3d1500-e0e7-11eb-930b-86a3ca568c90.png)
 
@@ -28,13 +28,13 @@ This is the default minecraft launcher, the installation guide can be found **[h
 - Griefing and stealing from other players is not allowed, this can result in a ban.
 - Any kind of hate speech or genuine disrespect towards other players will not be tolerated.
 - RDM (Random Deathmatch) is not allowed on the server. This doesn't mean PvP is not allowed.
-- No hacking or exploiting (e.g. item duping), this can also result in a ban.
+- No hacking or exploiting (e.g. item duping), this can result in a ban.
 - Limit the use of automated farms (especially mobfarms), they are allowed but be sure to ask an admin first (too many farms will cause tps issues / lag).
 
 ## Features
 
 ### Voice Chat!
-Communicate with other players through in game proximity voice chat. The voice chat is a big part of the magic of this server and I hope this can lead to some fun interactions/RP. This voice chat also has a feature where you can start a group voice chat just like discord, for the people who don't want to play alone.
+Communicate with other players through in-game proximity voice chat. The voice chat is a big part of the magic of this server and I hope this can lead to some fun interactions/RP. This voice chat also has a feature where you can start a group voice chat just like discord, for people who don't want to play alone.
 
 ### Central Town / Hub
 The goal is to create a nice world where everyone plays together nicely, this is why we will build a nice town close to spawn where everyone can build what they want.
@@ -79,4 +79,4 @@ A survival-friendly way of fast-traveling.
 The name says it all.
 
 ## **DISCLAIMER**
-This document is work in progress
+This document is a work in progress
