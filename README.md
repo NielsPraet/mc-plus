@@ -77,3 +77,6 @@ A survival-friendly way of fast-traveling.
 
 ### **[Yungs-Better-Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)**
 The name says it all.
+
+## **DISCLAIMER**
+This document is work in progress
