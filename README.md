@@ -23,7 +23,7 @@ This is the default minecraft launcher, the installation guide can be found **[h
 - Any kind of hate speech or genuine disrespect towards other players will not be tolerated.
 - RDM (Random Deathmatch) is not allowed on the server. This doesn't mean PvP is not allowed.
 - No hacking or exploiting (e.g. item duping), this can also result in a ban.
-- Limit the use of automated farms (specifically mobfarms), they are allowed but be sure to ask an admin first (too many farms will cause tps issues / lag).
+- Limit the use of automated farms (especially mobfarms), they are allowed but be sure to ask an admin first (too many farms will cause tps issues / lag).
 
 ## Features
 
