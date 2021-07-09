@@ -30,5 +30,38 @@ This is the default minecraft launcher, the installation guide can be found **[h
 ### Voice Chat!
 Communicate with other players through in game proximity voice chat. The voice chat is a big part of the magic of this server and I hope this can lead to some fun interactions/RP. This voice chat also has a feature where you can start a group voice chat just like discord, for the people who don't want to play alone.
 
-## Mods
+## Main Mods
+This is a list of the most important mods in the modpack. These mods are designed to elevate the Minecraft experience, not make it into a futuristic nuke-fest.
 
+### **[Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)**
+Adorn is a simple mod that adds some simple decorations to Minecraft.
+
+### **[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)**
+Appleskin adds some UI improvements for hunger.
+
+### **[Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)**
+Comforts adds sleeping bags and hammocks to the world of Minecraft.
+
+### **[Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)**
+Coptopia adds a bunch of crops and foods.
+
+### **[Gates of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)**
+Gates of Babylon adds new weapons and shields to the game.
+
+### **[Mo-Structures](https://www.curseforge.com/minecraft/mc-mods/mo-structures)**
+This mod adds... well... more structures.
+
+### **[Roughly-Enough-Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)**
+Rougly Enough Items is a mod that adds a list of craftable blocks to the side of your inventory, make sure to check the mod website if you have never used such a mod before because it's very powerful.
+
+### **[Simple-Voice-Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)**
+This adds an in game proximity chat voice mod to be able to speak to eachother.
+
+### **[Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)**
+Adds a minimap to your HUD.
+
+### **[Waystones](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)**
+A survival-friendly way of fast-traveling.
+
+### **[Yungs-Better-Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)**
+The name says it all.
