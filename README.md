@@ -10,11 +10,14 @@ To start your journey, please look at the installation guide below. Also read th
 
 ## Installation
 To join the server, you should have the mods installed that can be found in this repo. Below you can find the different ways to install these mods into your client.
+You can download the mods by pressing the green button in the upper right corner.
+![image](https://user-images.githubusercontent.com/61625814/125112684-ca3d1500-e0e7-11eb-930b-86a3ca568c90.png)
+Then 
 
 ### MultiMC (recommended)
 Multimc is a program where you can have multiple minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
 
-### Minecraft Launcher
+### Minecraft Launcher (easier for people who have never used mods)
 This is the default minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
 
 
@@ -56,6 +59,9 @@ Rougly Enough Items is a mod that adds a list of craftable blocks to the side of
 
 ### **[Simple-Voice-Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)**
 This adds an in game proximity chat voice mod to be able to speak to eachother.
+
+### **[Universal Graves](https://www.curseforge.com/minecraft/mc-mods/universal-graves)**
+This mod adds in graves that keep your stuff safe when you die.
 
 ### **[Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)**
 Adds a minimap to your HUD.
