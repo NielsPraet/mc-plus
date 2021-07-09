@@ -6,22 +6,22 @@ This is a Minecraft 1.17 'Plus' modpack that is designed to enrich the features 
 ## Server?
 That's right! This is a formal invitation to join us on a way too ambitious server that has been designed to create a fun community for everyone to play on. This server will contain both English and Dutch speaking people, so keep mind of this.
 
-To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works ofcourse).
+To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Of course we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works of course).
 
-To protect our server, we use whitelisting, so if you want to join, please send me a message with your minecraft username and we will add you to our server and deliver you the IP.
+To protect our server, we use whitelisting, so if you want to join, please send me a message with your Minecraft username and we will add you to our server and deliver you the IP.
 
 ## Installation
 To join the server, you should have the mods installed that can be found in this repo. Below you can find the different ways to install these mods into your client.
 You can download the mods by pressing the green button in the upper right corner.
 ![image](https://user-images.githubusercontent.com/61625814/125112684-ca3d1500-e0e7-11eb-930b-86a3ca568c90.png)
 
-Then press **Download ZIP** and put the mods folder from this zip in your minecraft folder (Follow the tutorial below for this). You can just delete the README file.
+Then press **Download ZIP** and put the mods folder from this zip in your Minecraft folder (Follow the tutorial below for this). You can just delete the README file.
 
 ### MultiMC (recommended)
-Multimc is a program where you can have multiple minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
+Multimc is a program where you can have multiple Minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
 
 ### Minecraft Launcher (easier for people who have never used mods)
-This is the default minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
+This is the default Minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
 
 
 ## Rules & Guidelines
