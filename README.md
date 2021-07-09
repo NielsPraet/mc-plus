@@ -15,13 +15,13 @@ To join the server, you should have the mods found in this repo installed. Below
 You can download the mods by pressing the green button in the upper right corner.
 ![image](https://user-images.githubusercontent.com/61625814/125112684-ca3d1500-e0e7-11eb-930b-86a3ca568c90.png)
 
-Then press **Download ZIP** and put the mods folder from this zip in your minecraft folder (Follow the tutorial below for this). You can just delete the README file.
+Then press **Download ZIP** and put the mods folder from this zip in your Minecraft folder (Follow the tutorial below for this). You can just delete the README file.
 
 ### MultiMC (recommended)
-Multimc is a program where you can have multiple minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
+Multimc is a program where you can have multiple Minecraft installations together. Please follow **[this guide](https://fabricmc.net/wiki/player:tutorials:install_multimc:windows)**. If you run into any problems, be sure to let one of the admins know.
 
 ### Minecraft Launcher (easier for people who have never used mods)
-This is the default minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
+This is the default Minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
 
 
 ## Rules & Guidelines
