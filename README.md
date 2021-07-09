@@ -8,6 +8,8 @@ That's right! This is a formal invitation to join us on a way too ambitious serv
 
 To start your journey, please look at the installation guide below. Also read through the rules and guidelines of the server. Because we want to have a friendly and healthy community, we ask everyone to follow these. Results of violation of one of these rules can range from a simple warning to a temp ban or even a perma ban. Ofcourse we don't want to restrict any creativity or social interactions between our players, so if you don't agree with one of these or you thought of a rule that should be put in place, be sure to let us know. Either by sending me (Snil#4013) or Classy Beaver (Classy Beaver#0488) a DM on Discord or by adding an issue to this repo (if you know how this works ofcourse).
 
+To protect our server, we use whitelisting, so if you want to join, please send me a message with your minecraft username and we will add you to our server and deliver you the IP.
+
 ## Installation
 To join the server, you should have the mods installed that can be found in this repo. Below you can find the different ways to install these mods into your client.
 You can download the mods by pressing the green button in the upper right corner.
