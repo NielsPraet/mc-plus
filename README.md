@@ -36,6 +36,9 @@ This is the default minecraft launcher, the installation guide can be found **[h
 ### Voice Chat!
 Communicate with other players through in game proximity voice chat. The voice chat is a big part of the magic of this server and I hope this can lead to some fun interactions/RP. This voice chat also has a feature where you can start a group voice chat just like discord, for the people who don't want to play alone.
 
+### Central Town / Hub
+The goal is to create a nice world where everyone plays together nicely, this is why we will build a nice town close to spawn where everyone can build what they want.
+
 ## Main Mods
 This is a list of the most important mods in the modpack. These mods are designed to elevate the Minecraft experience, not make it into a futuristic nuke-fest.
 
