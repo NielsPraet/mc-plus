@@ -23,6 +23,19 @@ Multimc is a program where you can have multiple Minecraft installations togethe
 ### Minecraft Launcher (easier for people who have never used mods)
 This is the default Minecraft launcher, the installation guide can be found **[here](https://fabricmc.net/wiki/install)**. If you run into any problems, be sure to let one of the admins know.
 
+### Setting up the voice chat
+
+When loading into the server, the first thing you should do is set up your voicemod.
+1. Go into Options > Controls and search for the **Voice Chat GUI** control and remember this key (default is v).
+2. Go back into the game and press this key. A window like the one below should pop up.
+![image](https://user-images.githubusercontent.com/61625814/125167231-c2d94280-e19f-11eb-8814-f01e50e37888.png)
+
+3. Go into these settings and press the **Select microphone** button. Here you can select your microphone.
+4. Next you should test if your microphone works by clicking the enable microphone button.
+
+![image](https://user-images.githubusercontent.com/61625814/125167258-edc39680-e19f-11eb-9da7-d78fce6ffa46.png)
+
+Now you should be all set up!
 
 ## Rules & Guidelines
 - Griefing and stealing from other players is not allowed, this can result in a ban.
